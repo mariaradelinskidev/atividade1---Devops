@@ -1,2 +1,4 @@
 # atividade1---Devops
-Repositório criado para atividade somativa 1 - Matéria DevOps
+
+Repositório criado para atividade de DevOps
+
