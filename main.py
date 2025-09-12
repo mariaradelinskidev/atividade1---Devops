@@ -4,5 +4,5 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"Olá professor, adorei a matéria"}
+    return {"Gosta de Bee Gees? Minha música preferida se chama Too Much Heaven"}
 
